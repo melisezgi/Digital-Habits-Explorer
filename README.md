@@ -10,21 +10,32 @@ The data was collected from my smartphone's built-in screen time tracker. It inc
 
 ## Project Plan
 1. **Exploratory Data Analysis (EDA)**:
-   - Analyze total screen time trends (weekdays vs. weekends).
-   - Identify the most-used apps and categories (e.g., social media, work, entertainment).
+- Summarize the total screen time and app usage across the week.
+- Identify patterns, such as peak usage times and differences between app categories.
+- Compare weekday and weekend usage to spot behavioral shifts.
 2. **Visualization**:
    - Create charts for screen time distribution and app usage trends.
 3. **Findings**:
-   - Summarize the key insights about my habits.
+   - Summarize insights, such as the most-used apps or categories and areas for improvement.
 4. **Future Work**:
-   - Explore methods to reduce unnecessary screen time.
+   - Explore predictive modeling to estimate future screen time trends.
+   - Develop strategies to improve productivity and reduce distractions.
 
 ## Deliverables
-- A detailed report with visualizations and analysis scripts.
-- GitHub repository with all scripts (no raw data for privacy).
+The repository will include:
+
+ - Analysis Scripts:
+Python scripts for data cleaning, EDA, and visualization.
+ - Visualizations:
+Charts and summaries of screen time trends and app usage.
+ - README.md:
+A detailed explanation of the project, including its goals, methodology, and findings.
+ - GitHub Repository:
+All project materials, excluding raw data for privacy.
 
 ## Timeline
 - Project repository setup: Completed by Nov 30.
+- Exploratory Data Analysis and Initial Findings: December 2024.
 - Final analysis and findings: To be submitted by Jan 10.
 
 ## Limitations
