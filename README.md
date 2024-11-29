@@ -14,12 +14,12 @@ The data was collected from my smartphone's built-in screen time tracker. It inc
 - Identify patterns, such as peak usage times and differences between app categories.
 - Compare weekday and weekend usage to spot behavioral shifts.
 2. **Visualization**:
-   - Create charts for screen time distribution and app usage trends.
+- Create charts for screen time distribution and app usage trends.
 3. **Findings**:
-   - Summarize insights, such as the most-used apps or categories and areas for improvement.
+- Summarize insights, such as the most-used apps or categories and areas for improvement.
 4. **Future Work**:
-   - Explore predictive modeling to estimate future screen time trends.
-   - Develop strategies to improve productivity and reduce distractions.
+- Explore predictive modeling to estimate future screen time trends.
+- Develop strategies to improve productivity and reduce distractions.
 
 ## Deliverables
 The repository will include:
