@@ -68,9 +68,30 @@ All project materials, excluding raw data for privacy.
 This analysis is based on personal data, so insights may not generalize to others. The dataset may also have incomplete records due to phone inactivity on some days.
 
 ## FINDINGS
-Screen time is significantly higher on weekends compared to weekdays (P-value < 0.05).
-Social media apps account for the largest portion of total screen time.
-Screen time patterns show consistency on weekdays, with noticeable spikes on weekends.
+1. Daily Screen Time Trend:
+There is a visible fluctuation in the trend of total screen time over time.
+There is a general downward trend in screen time for most days, except for spikes possibly due to specific events or weekends.
+
+2. Category Trends Over Time:
+Social Media leads the chart in screen time across almost all days, especially during weekends.
+Categories like Entertainment and Shopping and Food show peaks occasionally, probably reflecting user-specific activities.
+The less-used categories, such as Education and Creativity, are also relatively stable.
+
+3. Category Screen Time Breakdown:
+Social Media accounts for the majority of the total screen time, followed by Entertainment and Shopping and Food.
+Productivity-related categories like Creativity and Education have very minimal contributions.
+
+4. Weekday vs Weekend Analysis:
+Screen Time is significantly higher on weekends compared to weekdays, as can be seen from both the boxplot and stacked bar chart.
+While the contribution of Social Media and Entertainment-like categories is more contributive on weekends, productivity-related activities tend to remain constant between both weekends and weekdays.
+Boxplot Visualization
+Stacked Bar Chart
+
+5. Key Takeaway:
+Social Media is highly used during weekends, indicating that on non-working days, people are relaxing and communicating with each other.
+Productive and health-related categories have remained quite constant, reflecting equal usage trends in these kinds of activities.
+Peaks of entertainment might point to specific events or days on which users are into media consumption.
+
 
 ## Future Work
 Incorporate data from additional months for a more comprehensive analysis.
