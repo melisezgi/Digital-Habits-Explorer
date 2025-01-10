@@ -70,6 +70,10 @@ All project materials, excluding raw data for privacy.
 This analysis is based on personal data, so insights may not generalize to others. The dataset may also have incomplete records due to phone inactivity on some days.
 
 ## FINDINGS
+
+This project helped me to find important patterns in my screen time habits. Social media is dominant, and during the weekend, my screen time significantly increases. I also was surprised by how little time I spend in productivity-related apps like "Education" or "Creativity," even though I want to improve in those areas. These have indeed inspired me to put a limit on using social media and to spend more time with applications that contribute to my personal and professional development. Generally, the analysis has made me more conscious of my digital habits and has urged me to work toward maintaining a healthier balance.
+
+
 1. Daily Screen Time Trend:
 There is a visible fluctuation in the trend of total screen time over time.
 There is a general downward trend in screen time for most days, except for spikes possibly due to specific events or weekends.
