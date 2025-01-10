@@ -7,6 +7,15 @@ This project explores screen time habits using personal data collected over a mo
 The analysis includes daily trends, category-wise usage, and a comparison between weekdays and weekends.
 In addition, statistical hypothesis testing was performed to determine significant differences in screen time patterns between weekdays and weekdays.
 
+## Hypotheses
+For the statistical analysis, the following hypotheses were tested:
+
+Null Hypothesis (H₀):
+There is no significant difference in screen time between weekdays and weekends.
+
+Alternative Hypothesis (H₁):
+There is a significant difference in screen time between weekdays and weekends.
+
 ## Dataset Description
 The data was collected from my smartphone's built-in screen time tracker. It includes daily usage data categorized by apps, total screen time, and usage times across different days.
 
