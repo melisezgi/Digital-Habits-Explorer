@@ -1,5 +1,7 @@
 # Digital-Habits-Explorer
 This project analyzes personal screen time data to uncover insights into daily smartphone usage patterns.
+In this modern-day digital era, it has become quite imperative to understand screen time patterns. Prolonged use of screens has been related to various problems such as reduced productivity, poor mental health, and poor physical health. This work is an essential tool to help analyze one's screen time habits: days of the week compared to weekends and identification of dominant categories like social media. This pattern provides valuable insights that help people understand better the current trends in digital behaviors, hence make informed decisions about screen time. It may also be a starting point in devising guidelines for healthy screen time habits, balancing work and playtime, and other lifestyle modifications in the modern, technological world.
+
 # Screen Time Analysis
 
 ## Introduction
@@ -94,8 +96,5 @@ Peaks of entertainment might point to specific events or days on which users are
 
 
 ## Future Work
-Incorporate data from additional months for a more comprehensive analysis.
-Explore correlations between screen time and productivity metrics.
-Add machine learning models to predict screen time based on historical dat
-
+The possible future development in this project includes the analysis of the data by screen time over months to see trends and seasonal change in behavior; using data from a number of different users would allow for wider and more generalized analysis. More importantly, further analysis that could be carried out includes seeing correlations of the screen time to external factors: weather conditions, holidays, productivity levels, and other factors. Refining existing categories, such as breaking down "Social Media" into specific platforms like Instagram or TikTok, could offer further detail regarding user habits. Finally, the introduction of predictive modeling to predict screen time based on past behavior, with personalized recommendations toward healthier digital habits, could also be implemented.
 
